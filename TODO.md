@@ -1,0 +1,3 @@
+- [x] Update app.py to accept latitude and longitude in the JSON payload and include them in the response.
+- [x] Update test.json to include sample latitude and longitude values.
+- [x] Update test_app.py to include latitude and longitude in test_data and print them in the output.

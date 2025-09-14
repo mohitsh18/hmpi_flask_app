@@ -1,0 +1,11 @@
+{
+  "heavyMetalConcentrations": {
+    "lead": 0.02,
+    "cadmium": 0.003,
+    "arsenic": 0.015,
+    "mercury": 0.001,
+    "chromium": 0.04
+  },
+  "latitude": 37.7749,
+  "longitude": -122.4194
+}
